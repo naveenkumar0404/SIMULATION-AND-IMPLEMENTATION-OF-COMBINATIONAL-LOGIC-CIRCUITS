@@ -1,5 +1,4 @@
 SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
-
 AIM: 
 
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
@@ -7,6 +6,7 @@ AIM:
 APPARATUS REQUIRED:
 
 VIVODA 2023.2
+
 PROCEDURE:
 STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 STEP:2  Select the device family, device, package and speed.       
